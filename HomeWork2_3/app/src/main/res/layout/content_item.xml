@@ -92,7 +92,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:layout_gravity="center_horizontal"
-        android:background="#c8000000"></View>
+        android:background="#af000000"></View>
 
     <RelativeLayout
         android:layout_width="match_parent"
